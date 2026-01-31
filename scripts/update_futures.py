@@ -8,6 +8,8 @@ TARGETS = [
     {"ticker": "2317", "name": "鴻海期貨",   "contract": "鴻海期貨"},
     {"ticker": "3231", "name": "緯創期貨",   "contract": "緯創期貨"},
     {"ticker": "2382", "name": "廣達期貨",   "contract": "廣達期貨"},
+    {"ticker": "2049", "name": "上銀期貨", "contract": "上銀期貨"},
+    {"ticker": "1536", "name": "和大期貨", "contract": "和大期貨"},
 ]
 
 # ✅ 改抓「靜態表」：不需要 JS、不需要下拉選單參數
